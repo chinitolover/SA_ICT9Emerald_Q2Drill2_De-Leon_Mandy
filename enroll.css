@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #39465a;
+}
+
+.navbar-brand {
+    color: #08738b;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #438ff0;
+}
+
+.enroll {
+    background-color: #eaf3fc;
+    padding: 70px 20px;
+}
+
+.enroll h1 {
+    color: #438ff0;
+    margin-bottom: 20px;
+}
+
+.form-box {
+    background-color: white;
+    padding: 30px;
+    max-width: 500px;
+    margin: 30px auto;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #ccc;
+}
+
+.form-control {
+    padding: 12px;
+}
+
+.btn-primary {
+    background-color: #438ff0;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #08738b;
+}
+
+footer {
+    background-color: #08738b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

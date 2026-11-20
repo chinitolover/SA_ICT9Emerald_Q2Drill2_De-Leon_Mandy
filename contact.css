@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #39465a;
+}
+
+.navbar-brand {
+    color: #08738b;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #438ff0;
+}
+
+.contact {
+    padding: 80px 20px;
+    background-color: white;
+}
+
+.contact h1 {
+    color: #438ff0;
+    margin-bottom: 20px;
+}
+
+.contact-box {
+    background-color: #eaf3fc;
+    padding: 30px;
+    max-width: 600px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #08738b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

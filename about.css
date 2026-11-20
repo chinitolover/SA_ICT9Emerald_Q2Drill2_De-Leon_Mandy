@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #39465a;
+}
+
+.navbar-brand {
+    color: #08738b;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #438ff0;
+}
+
+.about {
+    padding: 100px 20px;
+    background-color: white;
+}
+
+.about h1 {
+    color: #438ff0;
+    margin-bottom: 30px;
+}
+
+.about h3 {
+    color: #08738b;
+    margin-top: 40px;
+}
+
+.about p {
+    max-width: 700px;
+    margin: 20px auto;
+    line-height: 1.8;
+}
+
+footer {
+    background-color: #08738b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
